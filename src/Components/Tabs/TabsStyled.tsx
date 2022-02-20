@@ -5,7 +5,7 @@ background-color: ${(props) => props.isActive ? '#aaffff' : 'transparent'};
 border: 0;
 border-top-left-radius: 1rem;
 padding: 1rem 2rem;
-width: 33.3%;
+flex: 1;
 font-size: 2rem;
 color: #4d4d4d;
 
